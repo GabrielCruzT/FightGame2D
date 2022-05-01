@@ -6,9 +6,9 @@
 
 [Menu de Preferências](#menu-de-preferencias)
 
-[Menu Principal](#menu-de-modos-de-jogo)
+[Modos de Jogo](#menu-de-modos-de-jogo)
 
-[Menu de Preferências](#seleção-de-personagem)
+[Seleção de personagens](#seleção-de-personagem)
 
 
 ## Menu Principal:
