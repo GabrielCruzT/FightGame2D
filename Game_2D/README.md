@@ -1,6 +1,15 @@
 # Etapas e desenvolvimento
-## Etapas
-[Criando Menu](#criando-o-menu-do-jogo)
+## Etapas de Criação do projeto
+[Menu Principal](#menu-principal)
+[Menu de Preferências](#menu-de-preferencias)
+[Menu Principal](#menu-de-modos-de-jogo)
+[Menu de Preferências](#seleção-de-personagem)
 
 
-## Criando o menu do jogo:
+## Menu Principal:
+
+## Menu de preferências:
+
+## Menu de modos de jogo:
+
+## Seleção de personagens:
