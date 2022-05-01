@@ -1,6 +1,6 @@
 # Etapas e desenvolvimento
 
-## Etapas de Criação do projeto
+## Etapas de Criação do projeto:
 
 [Menu Principal](#menu-principal)
 
